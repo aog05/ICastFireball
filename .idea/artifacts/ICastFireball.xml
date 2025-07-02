@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ICastFireball">
+    <output-path>$PROJECT_DIR$/out/artifacts/ICastFireball</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="edu.neumont.csc150.Main" />
+        <option name="description" value="" />
+        <option name="height" value="300" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="450" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="ICastFireball.jar">
+        <element id="module-output" name="ICastFireball" />
+      </element>
+    </root>
+  </artifact>
+</component>
